@@ -88,4 +88,8 @@ In order for a (?=pattern) assertion to succeed, the pattern must match the text
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Follow me on github github.com/Cbaca4
+
+Deployed Github-gist link: https://gist.github.com/Cbaca4/c6cef95a5934823accde38fdc5d758b9
+
+Github repository: https://github.com/Cbaca4/Regex-Tutorial-in-JS
